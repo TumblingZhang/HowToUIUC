@@ -613,7 +613,7 @@ Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7
 ### 申请信用卡
 由于大多数人是0信用记录，高端大气上档次如chase的credit card是申请不到的，因而一般申请的是discover卡。多刷这张卡，如果你研究生也在美国的话，有了几个月的信用记录，就能在研究生阶段申请福利更好的信用卡了。
 
-## 骚操作提高绩点（目前未知是否有副作用，慎用）
+## 骚操作提高绩点
 ### 选研究生课程
 * 研究生课程大多比本科专业课容易拿分，却反而看起来很厉害，一举两得。
 * 申请方法：发邮件约教授或直接去上课地点 找任课教授聊聊，说想上这门课。若他同意你选这门课，就请他用UIUC邮箱发一封邮件给你，内容为“我同意XXX(your name)选 XX 5XX (course name)”，然后你拿着电脑和这封邮件去CS/ECE advising让advisor帮你注册这门课。
@@ -621,7 +621,7 @@ Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7
 * 对于科研能力较强的同学，ECE397拿A应该不是什么难事。
 * 一般是套磁进组之后，和教授说你需要一个ECE 397来抵学分, so that I could pay more attention to the project you gave me. 然后在官网 https://publish.illinois.edu/eceprojects/ 下载表格打印，project outline随便填填，然后给教授签字。把教授签完字的表格拍照，发封邮件给Kudeki，他会approve然后联系ECE advising的人帮你走最后的注册课程流程。 
   
-### 选一堆通识
+### 选一堆通识（目前未知是否有副作用，慎用）
 急需拉高UIUC GPA而受不了多门专业课的小伙伴可试试。但UIUC的那些水通识只是容易拿A，workload并不算小。参考 https://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa/. 可能存在的问题是，你在申请grad school的时候交成绩单，招生官可以看到你GPA挺高但是上了一堆通识。
 
 ## 其他热议话题
